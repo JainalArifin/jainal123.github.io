@@ -1,6 +1,6 @@
 # About this site
 
->web saya di github
+>web pertama saya di github
 
 # Used Tags & Syntaxes
 
