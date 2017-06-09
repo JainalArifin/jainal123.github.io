@@ -1,6 +1,6 @@
 # jainal123.github.io (developement)
 
-# Future Plans 
+# Future Plans ...
  untuk rencana kedepannya saya akan membuat sebuah web E-commerce
 
 # About this site
