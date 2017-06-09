@@ -1,3 +1,8 @@
+# jainal123.github.io (developement)
+
+# Future Plans 
+ untuk rencana kedepannya saya akan membuat sebuah web E-commerce
+
 # About this site
 
 >web pertama saya di github
@@ -32,4 +37,4 @@
 
 Saya adalah siswa Batch 10 #JackFox di Hacktiv8
 
-**branch added**
+**branch development**
